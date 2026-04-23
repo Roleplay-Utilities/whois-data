@@ -1,0 +1,31 @@
+[
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "links": {
+      "home": "https://domains.cloudflare.com",
+      "tlds": "https://domains.cloudflare.com/tld-policies"
+    },
+    "pros": ["No markup", "Free WHOIS privacy"],
+    "cons": ["Stuck to using Cloudflare DNS"],
+    "tlds": {
+      "com": { "base": 9.15, "renew": 9.15 },
+      "net": { "base": 11.00, "renew": 11.00 },
+      "ai": { "base": 140.00, "renew": 140.00 }
+    }
+  },
+  {
+    "id": "namecheap",
+    "name": "Namecheap",
+    "links": {
+      "home": "https://www.namecheap.com/"
+    },
+    "pros": ["Cheap", "Good UI"],
+    "cons": ["Heavy upsells"],
+    "tlds": {
+      "com": { "base": 5.98, "renew": 13.98 },
+      "net": { "base": 10.98, "renew": 14.98 },
+      "gg": { "base": 69.98, "renew": 79.98 }
+    }
+  }
+]
