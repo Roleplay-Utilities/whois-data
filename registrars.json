@@ -27,5 +27,19 @@
       "net": { "base": "~14.98", "renew": "~18.58", "last_checked": "5/13/2026" },
       "gg": { "base": "~68.98", "renew": "~82.98", "last_checked": "5/13/2026" }
     }
+  },
+  {
+    "id": "porkbun",
+    "name": "Porkbun",
+    "links": {
+      "home": "https://porkbun.com/"
+    },
+    "pros": ["Cheap", "Highly Respected Registrar", "Mostly at-cost pricing"],
+    "cons": [""],
+    "tlds": {
+      "com": { "base": "~11.08", "renew": "~11.08", "last_checked": "5/19/2026" },
+      "net": { "base": "~12.52", "renew": "~12.52", "last_checked": "5/19/2026" },
+      "gg": { "base": "~51.80", "renew": "~51.80", "last_checked": "5/19/2026" }
+    }
   }
 ]
